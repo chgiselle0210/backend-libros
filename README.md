@@ -28,7 +28,7 @@ El trabajo comenzó con el diseño de la estructura de la base de datos. Identif
 
 Luego, agregué registros de prueba para validar la estructura creada y checar que la relación entre autores y libros funcionara correctamente. Después de ello, desarrollé la conexión entre la aplicación y la base de datos utilizando Node.js y eso me ayudó a realizar consultas para obtener todos los registros disponibles y también recuperar información específica con parámetros enviados en las rutas de la aplicación.
 
-En una segunda etapa, trabajé con el consumo de una API externa para obtener información de la ubicación. Los datos recuperados fueron procesados en formato JSON y, después, almacenados en una base de datos independiente llamada Registro. Realicé, por último, distintas pruebas para comprobar que tanto la conexión con MySQL como la obtención y almacenamiento de datos funcionaran de manera correcta y obtuve los resultados que se muestran a lo largo de este documento en las capturas de pantalla que abarqué.
+En una segunda etapa, trabajé con el consumo de una API externa para obtener información de la ubicación. Los datos recuperados fueron procesados en formato JSON y, después, almacenados en una base de datos independiente llamada Registro. Realicé, por último, distintas pruebas para comprobar que tanto la conexión con MySQL como la obtención y almacenamiento de datos funcionaran de manera correcta y obtuve los resultados que se muestran a lo largo del documento en las capturas de pantalla que abarqué.
 
 # Conclusión
 
